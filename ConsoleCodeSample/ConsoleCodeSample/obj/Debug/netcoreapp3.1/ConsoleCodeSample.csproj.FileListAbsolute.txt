@@ -1,0 +1,13 @@
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\bin\Debug\netcoreapp3.1\ConsoleCodeSample.exe
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\bin\Debug\netcoreapp3.1\ConsoleCodeSample.deps.json
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\bin\Debug\netcoreapp3.1\ConsoleCodeSample.runtimeconfig.json
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\bin\Debug\netcoreapp3.1\ConsoleCodeSample.runtimeconfig.dev.json
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\bin\Debug\netcoreapp3.1\ConsoleCodeSample.dll
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\bin\Debug\netcoreapp3.1\ConsoleCodeSample.pdb
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\obj\Debug\netcoreapp3.1\ConsoleCodeSample.csprojAssemblyReference.cache
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\obj\Debug\netcoreapp3.1\ConsoleCodeSample.AssemblyInfoInputs.cache
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\obj\Debug\netcoreapp3.1\ConsoleCodeSample.AssemblyInfo.cs
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\obj\Debug\netcoreapp3.1\ConsoleCodeSample.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\obj\Debug\netcoreapp3.1\ConsoleCodeSample.dll
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\obj\Debug\netcoreapp3.1\ConsoleCodeSample.pdb
+C:\GitHubRepo\abbybrackeen\ConsoleCodeSample\ConsoleCodeSample\obj\Debug\netcoreapp3.1\ConsoleCodeSample.genruntimeconfig.cache
