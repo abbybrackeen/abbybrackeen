@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @abbybrackeen
-- 👀 I’m interested in all things tech.
-- 🌱 I currently code in C# but I really want to learn Java!
 - 📫 How to reach me: abby.brackeen@gmail.com
 
 <!---
