@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abbybrackeen
-- 📫 How to reach me: abby.brackeen@gmail.com
+- 📫 How to reach me: abigailbrackeen.netdev@gmail.com
 
 <!---
 abbybrackeen/abbybrackeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
